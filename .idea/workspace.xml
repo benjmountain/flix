@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e397901-3c6a-44af-87ad-806784fe0efa" name="Default Changelist" comment="" />
+    <list default="true" id="5e397901-3c6a-44af-87ad-806784fe0efa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aoDcSdDNEDYhptCoEzYLknzK88" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -136,12 +164,23 @@
       <option name="presentableId" value="Default" />
       <updated>1587393131459</updated>
       <workItem from="1587393134079" duration="7709000" />
-      <workItem from="1587608273125" duration="14746000" />
+      <workItem from="1587608273125" duration="16069000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="-1736" y="-620" width="912" height="1066" key="find.popup" timestamp="1588096503013">
@@ -149,10 +188,10 @@
     </state>
     <state x="-1736" y="-620" width="912" height="1066" key="find.popup/-2560.-807.2560.1440/0.0.1680.1050@-2560.-807.2560.1440" timestamp="1588096503013" />
     <state x="541" y="136" width="598" height="777" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587402159696" />
-    <state x="-1790" y="-487" width="1021" height="928" key="search.everywhere.popup" timestamp="1588271204977">
+    <state x="-1790" y="-487" width="1021" height="928" key="search.everywhere.popup" timestamp="1588275896943">
       <screen x="-2560" y="-807" width="2560" height="1440" />
     </state>
-    <state x="-1790" y="-487" width="1021" height="928" key="search.everywhere.popup/-2560.-807.2560.1440/0.0.1680.1050@-2560.-807.2560.1440" timestamp="1588271204977" />
+    <state x="-1790" y="-487" width="1021" height="928" key="search.everywhere.popup/-2560.-807.2560.1440/0.0.1680.1050@-2560.-807.2560.1440" timestamp="1588275896943" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587402338691" />
   </component>
 </project>

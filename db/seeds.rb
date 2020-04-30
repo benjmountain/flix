@@ -174,5 +174,3 @@ Movie.create!([
     image_file_name: "wonder-woman.png"
   }
 ])
-
-movie = Movie.find_by(title: "Captain Marvel")
